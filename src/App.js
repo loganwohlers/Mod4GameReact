@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import GameBoard from './containers/GameBoard'
 import './index.css';
+import MapContainer from './containers/MapContainer';
 
 class App extends Component {
   render() {
     return (
-      <GameBoard />
+      <MapContainer />
     )
   }
 }
