@@ -1,4 +1,4 @@
-.board {
+/* .board {
   background-color: blue;
   margin: auto;
   height: auto;
@@ -13,3 +13,7 @@
   border-style: solid;
   border-width: 1px;
 }
+
+canvas {
+  border: 2px solid darkgray;
+} */
